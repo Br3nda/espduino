@@ -2,7 +2,7 @@ espduino
 ========
 This is Wifi library (Chip ESP8266 Wifi soc) for arduino using SLIP protocol via Serial port
 
-You can found the **Native MQTT client** library for ESP8266 work well here: 
+Alternatively, you can find the **Native MQTT client** library for ESP8266 here: 
 [https://github.com/tuanpmt/esp_mqtt](https://github.com/tuanpmt/esp_mqtt)
 
 Source code bridge for ESP8266 can found here: [https://github.com/tuanpmt/esp_bridge](https://github.com/tuanpmt/esp_bridge)
